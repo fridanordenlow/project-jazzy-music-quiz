@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  'base': '/jazzy-quiz/'
+  'base': '/project-jazzy-music-quiz/'
 });
